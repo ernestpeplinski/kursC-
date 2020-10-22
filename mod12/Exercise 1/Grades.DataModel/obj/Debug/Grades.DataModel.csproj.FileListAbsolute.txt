@@ -1,0 +1,7 @@
+C:\Users\Vueservice\Desktop\Kurs\20483-Programming-in-C-Sharp\Allfiles\Mod12\Labfiles\Starter\Exercise 1\Grades.DataModel\bin\Debug\Grades.Web.Models.dll.config
+C:\Users\Vueservice\Desktop\Kurs\20483-Programming-in-C-Sharp\Allfiles\Mod12\Labfiles\Starter\Exercise 1\Grades.DataModel\bin\Debug\Grades.Web.Models.dll
+C:\Users\Vueservice\Desktop\Kurs\20483-Programming-in-C-Sharp\Allfiles\Mod12\Labfiles\Starter\Exercise 1\Grades.DataModel\bin\Debug\Grades.Web.Models.pdb
+C:\Users\Vueservice\Desktop\Kurs\20483-Programming-in-C-Sharp\Allfiles\Mod12\Labfiles\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.DataModel.csprojAssemblyReference.cache
+C:\Users\Vueservice\Desktop\Kurs\20483-Programming-in-C-Sharp\Allfiles\Mod12\Labfiles\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Vueservice\Desktop\Kurs\20483-Programming-in-C-Sharp\Allfiles\Mod12\Labfiles\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.Web.Models.dll
+C:\Users\Vueservice\Desktop\Kurs\20483-Programming-in-C-Sharp\Allfiles\Mod12\Labfiles\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.Web.Models.pdb
