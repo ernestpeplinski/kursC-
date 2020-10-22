@@ -1,0 +1,2 @@
+C:\Users\Vueservice\Desktop\Kurs\20483-Programming-in-C-Sharp\Allfiles\Mod11\Labfiles\Starter\Exercise 2\Grades.Utilities\obj\Debug\Grades.Utilities.csprojAssemblyReference.cache
+C:\Users\Vueservice\Desktop\Kurs\20483-Programming-in-C-Sharp\Allfiles\Mod11\Labfiles\Starter\Exercise 2\Grades.Utilities\obj\Debug\Grades.Utilities.csproj.CoreCompileInputs.cache
